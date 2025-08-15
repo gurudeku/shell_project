@@ -1,0 +1,4 @@
+# ~/.myshellrc sample
+# Runs at startup
+echo "Welcome to MyShell!"
+pwd
